@@ -8,3 +8,4 @@ jsLunch で作成中のゲームです。
 ### harry13
 ### motio
 ### yoshinbo
+### adattu
